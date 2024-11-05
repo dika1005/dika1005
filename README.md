@@ -3,11 +3,11 @@
 <h3 align="center"> I'am From Central Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="images.jpeg">
+<img align="right" alt="Coding" width="250" height="00" src="images.jpeg">
 
 - 👨‍💻 You can also check out my portfolio at [https://github.com/dika1005](https://github.com/dika1005)
 
-- 📫 How to reach me **dik3067@gmail.com**
+- 📫 How to reach me **dik3067@gmail.com**3
 
 - ⚡ Fun fact **I think I am funny XD**
 
