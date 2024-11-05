@@ -1,24 +1,9 @@
 ### Hi there 👋
-
-<!--
-**bayu1s/bayu1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Dika Ramadani</h1>
 <h3 align="center"> I'am From Central Java</h3>
 
-<p align="left"> <img src="images.jpeg" alt="Dikk" /> </p>
-<img align="right" width="250" height="400" src="Dikk">
+<p align="left"> <img src="images.jpeg" alt="dika1005" /> </p>
+<img align="right" alt="Coding" width="250" height="400" src="dikk.jpg">
 
 - 👨‍💻 You can also check out my portfolio at [https://github.com/dika1005](https://github.com/dika1005)
 
