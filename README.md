@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center"> I'am From Central Java</h3>
 
 <p align="left"> <img src="images.jpeg" alt="Dikk" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="Dikk">
+<img align="right" width="250" height="400" src="Dikk">
 
 - 👨‍💻 You can also check out my portfolio at [https://github.com/dika1005](https://github.com/dika1005)
 
