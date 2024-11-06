@@ -14,9 +14,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="undefined" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mas_dikk21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mass_dik21" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100087939921684" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rullfz" height="30" width="40" /></a>
+<a href="undefined" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nan" height="30" width="40" fill="white"/>
+</a>
+<a href="https://www.instagram.com/mas_dikk21/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mass_dik21" height="30" width="40" fill="white"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100087939921684" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rullfz" height="30" width="40" fill="white"/>
+</a>
+
 
 </p>
 
