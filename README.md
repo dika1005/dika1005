@@ -11,6 +11,8 @@
 </p>
 <img align="right" alt="Coding" width="250" height="400" src="metus.png">
 
+  Hi there! I'm Dika Ramadani, a passionate developer with a love for technology and learning new things. Welcome to my GitHub profile!
+
 - 👨‍💻 You can also check out my portfolio at [https://github.com/dika1005](https://github.com/dika1005)
 
 - 📫 How to reach me **dik3067@gmail.com**
