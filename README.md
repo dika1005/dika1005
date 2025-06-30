@@ -14,7 +14,7 @@
   </p>
   
   <!-- GIF Animasi Utama -->
-  <img src="hehe.gif" width="600" alt="Coding Animation">
+  <img src="hihi.gif" width="500" alt="Coding Animation">
 
 </div>
 
