@@ -12,33 +12,34 @@
   </p>
 </div>
 
+<!-- Tampilan GIF Utama -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgwajZmcTJ4a2R4cW1wMW92M24xdDNhajV4eXRwdXRhZW9icTN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62yJTSM6Fj2QdH9/giphy.gif" width="600" alt="Coding Animation">
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/dika1005/dika1005/main/assets/header-line.svg" width="100%" alt="divider">
 </p>
 
-<table>
+<!-- Bagian Tentang Saya & Statistik -->
+<table width="100%">
   <tr>
-    <td width="65%">
-      <h2 align="left">Halo, Saya Dika! 👋</h2>
+    <td width="60%" valign="top">
+      <h2 align="left">✨ About Me</h2>
       <p align="left">
-        Saya <strong>Dika Ramadani</strong>, seorang <strong>Web Developer</strong> dari Jawa Tengah, Indonesia. Saya memiliki hasrat untuk mengubah ide-ide kreatif menjadi solusi digital yang fungsional dan elegan. Bagi saya, setiap baris kode dan piksel di antarmuka adalah bagian dari seni untuk menciptakan pengalaman pengguna yang luar biasa.
-      </p>
-      <ul>
-        <li>🔭 Saat ini saya fokus mengembangkan aplikasi web full-stack dengan <b>React.js</b> & <b>Node.js</b>.</li>
-        <li>🌱 Mendalami arsitektur mikroservis dan praktik <b>DevOps</b> untuk deployment yang efisien.</li>
-        <li>💡 Terbuka untuk kolaborasi pada proyek <b>open-source</b> yang inovatif dan berdampak.</li>
-        <li>⚡ Fakta unik: Secangkir kopi adalah sahabat terbaik saya saat coding! ☕</li>
-      </ul>
-      <p align="left">
-        <b>Mari terhubung dan ciptakan sesuatu yang hebat bersama!</b>
-      </p>
-      <p align="left">
-        <a href="https://www.linkedin.com/in/dika-ramadani-41356b340/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="https://www.instagram.com/mas_dikk21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-        <a href="https://www.facebook.com/profile.php?id=100087939921684" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+        Saya <strong>Dika Ramadani</strong>, seorang <strong>Web Developer</strong> dari Indonesia dengan hasrat untuk mengubah ide menjadi solusi digital yang fungsional dan elegan. Saya percaya bahwa pengalaman pengguna yang hebat lahir dari perhatian terhadap detail, baik dalam kode maupun desain.
+        <br/><br/>
+        Saat ini saya sedang:
+        <ul>
+          <li>🔭 Mengembangkan aplikasi web full-stack yang responsif.</li>
+          <li>🌱 Mengeksplorasi tren teknologi baru, terutama di bidang AI dan DevOps.</li>
+          <li>🤝 Terbuka untuk kolaborasi pada proyek inovatif dan open-source.</li>
+          <li>💬 Siap berdiskusi tentang teknologi, coding, atau sekadar bertukar pikiran!</li>
+        </ul>
       </p>
     </td>
-    <td width="35%" align="center">
+    <td width="40%" valign="top" align="center">
+      <h2 align="center">📊 My GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=dika1005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&line_height=25" alt="Dika's GitHub Stats" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dika1005&theme=tokyonight&hide_border=true" alt="Dika's GitHub Streak" />
     </td>
@@ -49,97 +50,13 @@
   <img src="https://raw.githubusercontent.com/dika1005/dika1005/main/assets/header-line.svg" width="100%" alt="divider">
 </p>
 
-<h2 align="center">🚀 Bahasa & Tools Favorit</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <th align="center" width="25%">Frontend</th>
-    <th align="center" width="25%">Backend</th>
-    <th align="center" width="25%">Database</th>
-    <th align="center" width="25%">Tools & Lainnya</th>
-  </tr>
-  <tr >
-    <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" /></a>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,php,java" /></a>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></a>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dika1005/dika1005/main/assets/header-line.svg" width="100%" alt="divider">
-</p>
-
-<h2 align="center">🏆 Proyek Pilihan</h2>
-
-<!-- KARTU PROYEK 1: Ganti dengan detail proyek Anda -->
-<table width="100%" align="center">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>Project A: [Nama Proyek Kerenmu]</h3>
-      <p>Ini adalah deskripsi singkat tentang Proyek A. Jelaskan masalah yang diselesaikan, fitur utamanya, dan apa yang membuatnya istimewa. Contoh: Sebuah aplikasi web manajemen tugas dengan fitur kolaborasi real-time untuk meningkatkan produktivitas tim.</p>
-      <div>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-      </div>
-      <p>
-        <a href="https://github.com/dika1005/nama-repo-proyek-a" target="_blank">
-          <img src="https://img.shields.io/badge/Lihat_Kode-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://live-demo-proyek-a.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00F7A3?style=for-the-badge&logo=vercel&logoColor=black" />
-        </a>
-      </p>
-    </td>
-    <td width="45%" valign="top">
-      <!-- PENTING: Ganti URL gambar ini dengan screenshot atau GIF proyek Anda -->
-      <a href="https://live-demo-proyek-a.com" target="_blank">
-        <img src="https://via.placeholder.com/400x250/1a1b27/00F7A3?text=Screenshot+Proyek+A" alt="Screenshot Proyek A" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- KARTU PROYEK 2: Ganti dengan detail proyek Anda -->
-<table width="100%" align="center">
-  <tr>
-    <td width="45%" valign="top">
-      <!-- PENTING: Ganti URL gambar ini dengan screenshot atau GIF proyek Anda -->
-      <a href="https://live-demo-proyek-b.com" target="_blank">
-        <img src="https://via.placeholder.com/400x250/1a1b27/00F7A3?text=Screenshot+Proyek+B" alt="Screenshot Proyek B" width="100%">
-      </a>
-    </td>
-    <td width="55%" valign="top">
-      <h3>Project B: [Nama Proyek Lainnya]</h3>
-      <p>Deskripsi singkat Proyek B. Apa yang unik dari proyek ini? Tantangan apa yang kamu hadapi dan bagaimana kamu mengatasinya? Contoh: Sistem informasi sekolah berbasis web yang membantu digitalisasi data siswa dan guru secara efisien.</p>
-      <div>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-      </div>
-      <p>
-        <a href="https://github.com/dika1005/nama-repo-proyek-b" target="_blank">
-          <img src="https://img.shields.io/badge/Lihat_Kode-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://live-demo-proyek-b.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00F7A3?style=for-the-badge&logo=netlify&logoColor=black" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dika1005/dika1005/main/assets/header-line.svg" width="100%" alt="divider">
-</p>
+<!-- Bagian Kontak -->
+<div align="center">
+  <h2>🚀 Let's Connect!</h2>
+  <p>Jangan ragu untuk menghubungi saya melalui platform di bawah ini.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/dika-ramadani-41356b340/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/mas_dikk21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100087939921684" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  </p>
+</div>
