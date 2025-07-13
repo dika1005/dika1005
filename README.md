@@ -14,7 +14,7 @@
   </p>
   
   <!-- GIF Animasi Utama -->
-  <img src="a7xd.gif" width="700" alt="Coding Animation">
+  <img src="a7xd.gif" width="400" height="600" alt="Coding Animation">
 
 </div>
 
