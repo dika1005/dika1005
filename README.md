@@ -3,10 +3,10 @@
 <div align="center">
   
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=✨%20DIKA%20RAMADANI%20✨&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Anime-Powered%20GitHub!&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=✨%20DIKA%20RAMADANI%20✨&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20from%20Central%20Java%20🇮🇩&descAlignY=55&descSize=18" width="100%"/>
 
   <!-- Cool Anime GIF -->
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350px" alt="Anime Coding"/>
+  <img src="a7xd.gif" width="400" height="600" alt="Coding Animation"/>
   
   <!-- Typing Animation -->
   <br><br>
@@ -42,7 +42,7 @@
       
 ```yaml
 名前: Dika Ramadani
-役割: Developer & Anime Enthusiast
+役割: Web Developer & Anime Enthusiast
 場所: Central Java, Indonesia 🌏
 
 current_status:
@@ -50,6 +50,11 @@ current_status:
   🎌 Watching: "Seasonal Anime"
   🎮 Playing: "Games when bugs are fixed"
   ☕ Drinking: "Coffee to stay awake"
+
+currently_working_on:
+  - 🔭 Full-stack responsive web apps
+  - 🌱 Exploring AI & DevOps trends
+  - 🤝 Open for collaborations
 
 skills_unlocked:
   - Web Development ⚔️
@@ -63,6 +68,11 @@ motto: "コードは芸術である"
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <p><em>Crafting elegant and functional digital experiences.</em></p>
+  <p>Seorang developer dengan hasrat untuk mengubah ide menjadi solusi digital. Saya percaya pengalaman pengguna yang hebat lahir dari perhatian terhadap detail, baik dalam kode maupun desain.</p>
+</div>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -89,7 +99,7 @@ motto: "コードは芸術である"
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:dik3067@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
 </div>
@@ -132,7 +142,7 @@ motto: "コードは芸術である"
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dika1005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dika1005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dika1005&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="Streak Stats"/>
   
   <br><br>
