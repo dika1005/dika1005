@@ -1,17 +1,17 @@
+<!-- ================= HEADER BANNER ================= -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=200&section=header&text=Dika%20Ramadani&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Tech%20Enthusiast&descFontSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+</div>
 
-  <!-- Header Typing Animation -->
+<div align="center">
+  <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/dika1005">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Dika+Ramadani;Web+Developer+%26+Tech+Enthusiast;Welcome+to+my+GitHub+space!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=40&lines=%E2%9C%A8+Building+interactive+%26+modern+web+apps;%F0%9F%9A%80+Passionate+about+clean+code+%26+design;%F0%9F%92%AC+Let's+collaborate+and+create+something+great!" alt="Typing SVG" />
   </a>
 
+  <!-- Social & Profile Badges -->
   <p align="center">
-    <strong>Crafting clean, responsive, and functional digital experiences.</strong>
-  </p>
-
-  <!-- Profile Views & Social Badges -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dika1005&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=dika1005&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
     <a href="https://www.linkedin.com/in/dika-ramadani-41356b340/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -25,54 +25,75 @@
       <img src="https://img.shields.io/badge/Email-dik3067%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
-
 </div>
 
 <br/>
 
-<img align="right" alt="Dika Avatar" width="230" src="./metus.png" style="border-radius: 12px; margin-left: 20px; margin-bottom: 20px;">
+<!-- ================= ABOUT SECTION WITH METUS ================= -->
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>⚡ About Me</h3>
+      <p>
+        Halo! Saya <strong>Dika Ramadani</strong>, seorang Web Developer asal <strong>Jawa Tengah, Indonesia</strong>. Saya fokus pada pengembangan aplikasi web yang responsif, terstruktur rapi, dan memberikan pengalaman pengguna yang optimal.
+      </p>
+      <ul>
+        <li>🔭 <strong>Fokus Utama:</strong> Full-stack Web Development & RESTful APIs</li>
+        <li>🌱 <strong>Sedang Mendalami:</strong> Arsitektur sistem modern & performa web</li>
+        <li>💡 <strong>Ketertarikan:</strong> Clean Code, UI/UX Design, Open Source</li>
+        <li>📫 <strong>Hubungi Saya:</strong> <a href="mailto:dik3067@gmail.com">dik3067@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="./metus.png" alt="Dika Character" width="220" style="border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+    </td>
+  </tr>
+</table>
 
-### 👨‍💻 About Me
+<br/>
 
-- 📍 Based in **Central Java, Indonesia**
-- 🔭 Passionate about **Web Development** and building interactive, user-friendly solutions
-- 🌱 Continuously exploring modern web frameworks and backend technologies
-- 💼 Open for collaborations and software development opportunities
-- 📬 Reach me directly via email at **[dik3067@gmail.com](mailto:dik3067@gmail.com)**
+<!-- ================= TECH STACK ================= -->
+### 🛠️ Tech Stack & Arsenal
 
-<br clear="right"/>
+<div align="center">
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,mysql,git,github,vscode,linux&perline=11" alt="Skill Icons" />
+    </a>
+  </p>
+</div>
 
----
+<details>
+  <summary><strong>🔍 Rincian Teknologi & Tools</strong></summary>
+  <br/>
+  
+| Kategori | Teknologi / Tools |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Bootstrap |
+| **Backend & Database** | PHP, Java, MySQL |
+| **Version Control & Tools** | Git, GitHub, VS Code, Linux |
+</details>
 
-### 🛠️ Tech Stack & Skills
+<br/>
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <!-- Frameworks & Styling -->
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<!-- ================= GITHUB STATS ================= -->
+### 📊 GitHub Activity & Insights
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dika1005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dika1005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" width="49%" />
+</div>
 
-### 📊 GitHub Statistics
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dika1005&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="98.5%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dika1005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dika's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dika1005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+<br/>
 
----
-
-<p align="center">
-  <sub>⭐ Designed with care for <strong>Dika Ramadani</strong>'s GitHub Profile</sub>
-</p>
+<!-- ================= FOOTER ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <p align="center">
+    <sub>Crafted with passion by <strong>Dika Ramadani</strong></sub>
+  </p>
+</div>
